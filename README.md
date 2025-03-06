@@ -10,9 +10,9 @@ Then run the summarize_yt module
 
 `python summarize_yt.py`
 
-Enter the url of any youtube having transcripts
+* Enter the url of any youtube video having transcripts
 
-Select the language for summary
+* Select the language for summary
 
 The summary gets automatically saved in the directory 
 in pdf format
